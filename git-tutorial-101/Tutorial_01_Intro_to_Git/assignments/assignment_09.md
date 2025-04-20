@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Research who created Git and why it was developed.

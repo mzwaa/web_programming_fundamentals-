@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Write a short paragraph on how Git can help in a team project.

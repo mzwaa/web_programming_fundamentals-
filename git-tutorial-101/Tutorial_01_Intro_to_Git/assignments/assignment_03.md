@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Open the terminal and run your first command: `git --version`. Paste the output.

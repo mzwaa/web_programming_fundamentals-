@@ -1,3 +1,3 @@
 # Assignment 01
 
-Instructions for assignment 01.
+Research what version control is and list 3 benefits of using Git.
