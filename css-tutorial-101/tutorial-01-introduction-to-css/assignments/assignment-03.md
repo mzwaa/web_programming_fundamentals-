@@ -1,4 +1,4 @@
-<!-- Assignment 03 for Introduction To Css -->
+#03 for Introduction To Css -->
 
 ### assignment3.md
 ```markdown
