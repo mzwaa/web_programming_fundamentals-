@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Back up your `.gitconfig` file for reuse.

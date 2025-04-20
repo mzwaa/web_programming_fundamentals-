@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Explain the difference between global and local Git config.

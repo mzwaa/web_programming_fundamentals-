@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Practice no fast-forward merges with `--no-ff`.

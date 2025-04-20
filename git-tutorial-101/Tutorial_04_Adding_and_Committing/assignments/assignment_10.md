@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Create a `.gitignore` to exclude files and test its effect.

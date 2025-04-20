@@ -1,3 +1,3 @@
-# Tutorial 03: Creating Repositories
+# Tutorial 03 Creating Repositories
 
-Description and objectives go here.
+Welcome to Tutorial 03 Creating Repositories. Complete the assignments below to reinforce your learning.

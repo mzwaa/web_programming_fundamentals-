@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Push your code to GitHub using `git push`.

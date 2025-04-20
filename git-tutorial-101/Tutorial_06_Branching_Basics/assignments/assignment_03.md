@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Make changes on a branch and commit them.

@@ -1,3 +1,3 @@
 # Assignment 07
 
-Instructions for assignment 07.
+Add a second remote and push to both.

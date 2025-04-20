@@ -1,3 +1,3 @@
 # Assignment 01
 
-Instructions for assignment 01.
+Create a new repo for your final project.

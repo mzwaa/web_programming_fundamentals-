@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Use `git merge --abort` to cancel a merge.

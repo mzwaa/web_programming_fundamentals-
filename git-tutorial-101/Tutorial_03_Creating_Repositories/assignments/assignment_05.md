@@ -1,3 +1,3 @@
 # Assignment 05
 
-Instructions for assignment 05.
+List 3 things that happen when you run `git init`.

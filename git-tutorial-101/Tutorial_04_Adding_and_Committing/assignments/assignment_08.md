@@ -1,3 +1,3 @@
 # Assignment 08
 
-Instructions for assignment 08.
+View commit logs using `git log` and `git log --oneline`.

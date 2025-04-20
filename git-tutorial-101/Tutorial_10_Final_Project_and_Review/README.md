@@ -1,3 +1,3 @@
-# Tutorial 10: Final Project and Review
+# Tutorial 10 Final Project and Review
 
-Description and objectives go here.
+Welcome to Tutorial 10 Final Project and Review. Complete the assignments below to reinforce your learning.

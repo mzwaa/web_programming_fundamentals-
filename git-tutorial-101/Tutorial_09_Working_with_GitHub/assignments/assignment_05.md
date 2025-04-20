@@ -1,3 +1,3 @@
 # Assignment 05
 
-Instructions for assignment 05.
+Merge a pull request via the GitHub UI.

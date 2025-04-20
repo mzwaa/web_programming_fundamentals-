@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Open a pull request on GitHub.

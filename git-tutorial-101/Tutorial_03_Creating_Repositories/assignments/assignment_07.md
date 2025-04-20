@@ -1,3 +1,3 @@
 # Assignment 07
 
-Instructions for assignment 07.
+Rename your default branch to `main`.

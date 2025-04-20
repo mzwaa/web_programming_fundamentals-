@@ -1,3 +1,3 @@
-# Tutorial 08: Stashing and Resetting
+# Tutorial 08 Stashing and Resetting
 
-Description and objectives go here.
+Welcome to Tutorial 08 Stashing and Resetting. Complete the assignments below to reinforce your learning.

@@ -1,3 +1,3 @@
 # Assignment 08
 
-Instructions for assignment 08.
+Add a collaborator to your repo.

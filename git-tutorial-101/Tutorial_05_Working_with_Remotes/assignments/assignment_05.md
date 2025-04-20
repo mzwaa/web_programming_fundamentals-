@@ -1,3 +1,3 @@
 # Assignment 05
 
-Instructions for assignment 05.
+List your configured remotes with `git remote -v`.

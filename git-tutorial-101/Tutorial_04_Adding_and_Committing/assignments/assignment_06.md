@@ -1,3 +1,3 @@
 # Assignment 06
 
-Instructions for assignment 06.
+Undo a file added to staging.

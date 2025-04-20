@@ -1,3 +1,3 @@
 # Assignment 06
 
-Instructions for assignment 06.
+Find the default branch name in your repo.

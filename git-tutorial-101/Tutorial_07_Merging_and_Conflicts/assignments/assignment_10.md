@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Summarize best practices for conflict resolution.

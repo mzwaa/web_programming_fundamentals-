@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Check your Git config settings with `git config --list`.

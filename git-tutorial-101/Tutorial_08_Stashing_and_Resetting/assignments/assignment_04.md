@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Create a named stash and use it.

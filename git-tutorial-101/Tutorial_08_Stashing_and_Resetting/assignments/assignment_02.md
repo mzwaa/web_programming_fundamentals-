@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+List all stashes with `git stash list`.

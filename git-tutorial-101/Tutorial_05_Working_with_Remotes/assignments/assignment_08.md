@@ -1,3 +1,3 @@
 # Assignment 08
 
-Instructions for assignment 08.
+Explain push vs pull in your own words.

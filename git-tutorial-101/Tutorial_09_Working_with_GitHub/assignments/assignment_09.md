@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Review a pull request using GitHub review tools.

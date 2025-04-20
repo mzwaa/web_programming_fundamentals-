@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Set your Git email using `git config`.

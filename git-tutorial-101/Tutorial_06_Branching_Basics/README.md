@@ -1,3 +1,3 @@
-# Tutorial 06: Branching Basics
+# Tutorial 06 Branching Basics
 
-Description and objectives go here.
+Welcome to Tutorial 06 Branching Basics. Complete the assignments below to reinforce your learning.

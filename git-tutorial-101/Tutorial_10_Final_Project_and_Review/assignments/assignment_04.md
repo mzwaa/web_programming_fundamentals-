@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Develop a simple script or website.

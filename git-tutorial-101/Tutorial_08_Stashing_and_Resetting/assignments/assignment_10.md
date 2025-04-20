@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Practice `git clean` to remove untracked files.

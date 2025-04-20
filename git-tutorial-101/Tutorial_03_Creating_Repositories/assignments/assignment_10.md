@@ -1,3 +1,3 @@
 # Assignment 10
 
-Instructions for assignment 10.
+Track the changes in `.gitignore` with Git.

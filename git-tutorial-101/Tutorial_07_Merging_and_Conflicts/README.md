@@ -1,3 +1,3 @@
-# Tutorial 07: Merging and Conflicts
+# Tutorial 07 Merging and Conflicts
 
-Description and objectives go here.
+Welcome to Tutorial 07 Merging and Conflicts. Complete the assignments below to reinforce your learning.

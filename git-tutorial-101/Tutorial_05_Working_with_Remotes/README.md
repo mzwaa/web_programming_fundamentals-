@@ -1,3 +1,3 @@
-# Tutorial 05: Working with Remotes
+# Tutorial 05 Working with Remotes
 
-Description and objectives go here.
+Welcome to Tutorial 05 Working with Remotes. Complete the assignments below to reinforce your learning.

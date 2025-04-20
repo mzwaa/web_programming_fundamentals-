@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Simulate a conflict by pushing from 2 places.

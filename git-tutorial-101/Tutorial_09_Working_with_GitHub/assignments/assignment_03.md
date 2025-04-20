@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Create and push a branch to GitHub.

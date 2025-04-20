@@ -1,3 +1,3 @@
 # Assignment 07
 
-Instructions for assignment 07.
+Create a branch and push it to GitHub.

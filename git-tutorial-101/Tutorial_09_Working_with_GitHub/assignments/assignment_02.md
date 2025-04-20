@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Clone the GitHub repo to your local machine.

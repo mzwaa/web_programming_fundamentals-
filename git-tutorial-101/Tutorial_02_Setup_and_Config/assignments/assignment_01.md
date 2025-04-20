@@ -1,3 +1,3 @@
 # Assignment 01
 
-Instructions for assignment 01.
+Set your Git username using `git config`.

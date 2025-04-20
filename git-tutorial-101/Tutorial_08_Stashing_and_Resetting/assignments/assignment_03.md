@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Apply and drop a stash.

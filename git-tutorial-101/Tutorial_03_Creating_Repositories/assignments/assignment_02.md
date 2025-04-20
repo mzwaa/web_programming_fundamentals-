@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Clone a public repository from GitHub.

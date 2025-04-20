@@ -1,3 +1,3 @@
 # Assignment 04
 
-Instructions for assignment 04.
+Pull and merge changes using `git pull`.

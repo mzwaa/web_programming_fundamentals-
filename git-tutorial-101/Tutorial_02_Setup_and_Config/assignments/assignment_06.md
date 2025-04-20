@@ -1,3 +1,3 @@
 # Assignment 06
 
-Instructions for assignment 06.
+Configure Git to use your preferred text editor.

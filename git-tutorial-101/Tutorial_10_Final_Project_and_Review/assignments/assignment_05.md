@@ -1,3 +1,3 @@
 # Assignment 05
 
-Instructions for assignment 05.
+Use at least 3 branches for features.

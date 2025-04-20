@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Create a `.gitignore` file and explain its purpose.

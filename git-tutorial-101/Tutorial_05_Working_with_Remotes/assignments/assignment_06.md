@@ -1,3 +1,3 @@
 # Assignment 06
 
-Instructions for assignment 06.
+Remove a remote and re-add it.

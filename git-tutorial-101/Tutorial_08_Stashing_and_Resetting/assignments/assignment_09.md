@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Recover a lost commit using `git reflog`.

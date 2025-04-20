@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Use `git status` to inspect changes.

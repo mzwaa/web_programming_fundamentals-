@@ -1,3 +1,3 @@
 # Assignment 08
 
-Instructions for assignment 08.
+Push regularly to GitHub with meaningful commits.

@@ -1,3 +1,3 @@
 # Assignment 09
 
-Instructions for assignment 09.
+Research and configure Git line endings (Windows vs Unix).

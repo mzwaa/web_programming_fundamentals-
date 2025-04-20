@@ -1,3 +1,3 @@
 # Assignment 08
 
-Instructions for assignment 08.
+Use `git reset --hard` (and explain the risk).

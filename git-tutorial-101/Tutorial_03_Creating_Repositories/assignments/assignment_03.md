@@ -1,3 +1,3 @@
 # Assignment 03
 
-Instructions for assignment 03.
+Explore the contents of the `.git` folder.

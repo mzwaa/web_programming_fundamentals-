@@ -1,3 +1,3 @@
-# Tutorial 02: Setup and Config
+# Tutorial 02 Setup and Config
 
-Description and objectives go here.
+Welcome to Tutorial 02 Setup and Config. Complete the assignments below to reinforce your learning.

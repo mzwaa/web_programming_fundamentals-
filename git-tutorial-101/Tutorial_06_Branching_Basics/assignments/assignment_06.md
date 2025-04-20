@@ -1,3 +1,3 @@
 # Assignment 06
 
-Instructions for assignment 06.
+List all branches (local and remote).

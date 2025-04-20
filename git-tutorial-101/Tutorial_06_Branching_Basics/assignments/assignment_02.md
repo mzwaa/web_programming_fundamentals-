@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Switch to another branch using `git checkout`.

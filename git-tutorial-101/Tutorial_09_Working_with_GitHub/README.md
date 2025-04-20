@@ -1,3 +1,3 @@
-# Tutorial 09: Working with GitHub
+# Tutorial 09 Working with GitHub
 
-Description and objectives go here.
+Welcome to Tutorial 09 Working with GitHub. Complete the assignments below to reinforce your learning.

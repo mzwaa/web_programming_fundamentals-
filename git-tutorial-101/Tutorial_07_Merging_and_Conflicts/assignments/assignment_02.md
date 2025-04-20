@@ -1,3 +1,3 @@
 # Assignment 02
 
-Instructions for assignment 02.
+Merge one branch into the other and observe a conflict.
